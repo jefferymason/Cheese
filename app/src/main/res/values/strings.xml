@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Cheese</string>
+
+    <string name="action_settings1">Settings</string>
+    <string name="cheddarcheese">cheddarCheese</string>
+    <string name="title_activity_cheddar_cheese">Cheddar Cheese</string>
+
+    <string name="action_settings2">Settings</string>
+    <string name="swisscheese">swissCheese</string>
+    <string name="title_activity_swiss_cheese">Swiss Cheese</string>
+
+    <string name="action_settings3">Settings</string>
+    <string name="mozzarellacheese">mozzarellaCheese</string>
+    <string name="title_activity_mozzarella_cheese">Ricotta Cheese</string>
+
+    <string name="action_settings4">Settings</string>
+    <string name="goudacheese">goudaCheese</string>
+    <string name="title_activity_gouda_cheese">Gouda Cheese</string>
+</resources>
